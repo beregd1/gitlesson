@@ -6,5 +6,6 @@ public class Homework2 {
     }
     private static void task2(){
         System.out.println("Второе задание");
+        System.out.println("Второе задание правка");
     }
 }
